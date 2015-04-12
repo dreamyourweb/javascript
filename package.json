@@ -1,5 +1,5 @@
 {
-  "name": "airbnb-style",
+  "name": "orikami-style",
   "version": "1.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
@@ -7,17 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/dreamyourweb/javascript.git"
   },
   "keywords": [
     "style guide",
     "lint",
-    "airbnb"
+    "airbnb",
+    "orikami"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",`
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/dreamyourweb/javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript"
+  "homepage": "https://github.com/dreamyourweb/javascript"
 }
