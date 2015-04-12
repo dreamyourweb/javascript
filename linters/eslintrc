@@ -6,7 +6,7 @@ rules:
   no-new-object: 2
   no-reserved-keys: 2
   no-array-constructor: 2
-  quotes: [2, "single"]
+  quotes: [2, "double"]
   indent: [2, 2]
   no-multi-str: 2
   no-multi-spaces: 2
