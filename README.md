@@ -1,6 +1,4 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-# Airbnb JavaScript Style Guide() {
+# orikami JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
@@ -1561,8 +1559,7 @@
 **Tools**
 
   - Code Style Linters
-    + [JSHint](http://www.jshint.com/) - [Airbnb Style .jshintrc](https://github.com/airbnb/javascript/blob/master/linters/jshintrc)
-    + [JSCS](https://github.com/jscs-dev/node-jscs) - [Airbnb Style Preset](https://github.com/jscs-dev/node-jscs/blob/master/presets/airbnb.json)
+    + [JSHint](http://www.jshint.com/) - [orikami Style .jshintrc](https://github.com/dreamyourweb/javascript/blob/master/linters/jshintrc)
 
 **Other Styleguides**
 
