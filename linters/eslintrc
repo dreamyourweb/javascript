@@ -7,7 +7,7 @@ rules:
   no-reserved-keys: 2
   no-array-constructor: 2
   quotes: [2, "double"]
-  indent: [2, 2]
+  indent: [2, 4]
   no-multi-str: 2
   no-multi-spaces: 2
   no-shadow-restricted-names: 2
