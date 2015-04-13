@@ -41,6 +41,8 @@ rules:
     key-spacing: 2
     no-dupe-keys: 2
     strict: 0
+    no-underscore-dangle: 0
+
 globals:
     Meteor: false
     DDP: false
