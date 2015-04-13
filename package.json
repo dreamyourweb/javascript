@@ -1,24 +1,38 @@
 {
-  "name": "orikami-style",
-  "version": "1.0.0",
-  "description": "A mostly reasonable approach to JavaScript.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dreamyourweb/javascript.git"
-  },
-  "keywords": [
-    "style guide",
-    "lint",
-    "airbnb",
-    "orikami"
-  ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",`
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dreamyourweb/javascript/issues"
-  },
-  "homepage": "https://github.com/dreamyourweb/javascript"
+    "name": "orikami-style",
+    "version": "1.0.0",
+    "description": "A mostly reasonable approach to JavaScript.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dreamyourweb/javascript.git"
+    },
+    "keywords": [
+        "style guide",
+        "lint",
+        "airbnb",
+        "orikami",
+        "eslint",
+        "jshint",
+        "esformatter"
+    ],
+    "authors": [
+        {
+            "name": "Harrison Shoff",
+            "email": "hi@hshoff.com",
+            "hopmepage": "https://twitter.com/hshoff"
+        },
+        {
+            "name": "Andres Lamont",
+            "email": "andres@orikami.nl",
+            "homepage": "http://orikami.nl"
+        }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dreamyourweb/javascript/issues"
+    },
+    "homepage": "https://github.com/dreamyourweb/javascript"
 }
