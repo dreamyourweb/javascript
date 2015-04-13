@@ -1560,6 +1560,15 @@
 
   - Code Style Linters
     + [JSHint](http://www.jshint.com/) - [orikami Style .jshintrc](https://github.com/dreamyourweb/javascript/blob/master/linters/jshintrc)
+    + [ESLint](http://eslint.org/) - [orikami Style .eslintrc](https://github.com/dreamyourweb/javascript/blob/master/linters/eslintrc)
+    + [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+    + [SublimeLinter ESLint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
+    + [SublimeLinter JSHint](https://packagecontrol.io/packages/SublimeLinter-jshint)
+
+  - Code Style Formatters
+    + [ESFormatter](https://github.com/millermedeiros/esformatter/) - [orikami Style .esformatter](https://github.com/dreamyourweb/javascript/blob/master/linters/esformatter)
+    + [Sublime ESFormatter](https://packagecontrol.io/packages/EsFormatter) - [orikami Style EsFormatter.sublime-settings](https://github.com/dreamyourweb/javascript/blob/master/linters/EsFormatter.sublime-settings)
+
 
 **Other Styleguides**
 
