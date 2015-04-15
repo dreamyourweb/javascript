@@ -12,7 +12,6 @@ rules:
     no-multi-spaces: 2
     no-shadow-restricted-names: 2
     dot-notation: 2
-    block-scoped-var: 2
     vars-on-top: 2
     no-unused-vars: 2
     eqeqeq: 2
